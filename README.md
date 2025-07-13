@@ -21,8 +21,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![Screenshot of the finished QR code component for Desktop ](./assets/design/screenshot-desktop.png)
-![Screenshot of the finished QR code component for Mobile ](./assets/design/screenshot-mobile.png)
-
 
 ### Links
 
@@ -37,9 +35,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### What I learned
--How to follow  design system(colors, fonts,spacing) using  style guide.
--How to center element vertically nd horizontally uing flexbox.
--How to deploy  project uing Github Pages.
+- How to follow  design system(colors, fonts,spacing) using  style guide.
+- How to center element vertically nd horizontally uing flexbox.
+- How to deploy  project uing Github Pages.
 
 ## Author
 
