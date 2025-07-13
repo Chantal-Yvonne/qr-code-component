@@ -32,7 +32,7 @@
 
 /* ==========CONTAINER========== */
 .component-container {
-    max-width: 1440px;
+    max-width: 90rem;
     width: 100%;
     height: 100vh;
     background-color: var(--slate-300);
@@ -62,19 +62,19 @@
 }
 
 .component-box .box-info h1 {
-    font-family: Outfit;
+    font-family: "Outfit", "Segoe UI";
     font-size: 22px;
     font-weight: 700;
     color: var(--slate-900);
     width: 240px;
     text-align: justify;
     word-spacing: 0px;
-    margin: 24px 0 16px;
+    margin: 20px 0 16px;
 
 }
 
 .component-box .box-info p {
-    font-family: Outfit;
+    font-family: "Outfit", "Segoe UI";
     font-size: 15px;
     font-weight: 400;
     width: 256px;
