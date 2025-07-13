@@ -46,8 +46,8 @@
 .component-box {
     width: 20rem;
     height: 31.18rem;
-    border-radius: 20px;
-    padding: 16px 16px 40px;
+    border-radius: 1.25rem;
+    padding: 1rem 1rem 2.5rem;
     background-color: var(--white);
 }
 
@@ -58,7 +58,7 @@
 }
 
 .component-box .box-info {
-    padding: 0 16px;
+    padding: 0 1rem;
 }
 
 .component-box .box-info h1 {
@@ -69,7 +69,7 @@
     width: 15rem;
     text-align: justify;
     word-spacing: 0px;
-    margin: 20px 0 16px;
+    margin: 1.25rem 0 1rem;
 
 }
 
