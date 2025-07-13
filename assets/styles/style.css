@@ -44,8 +44,8 @@
 /* ==========CONTAINER BOX========== */
 
 .component-box {
-    width: 320px;
-    height: 499px;
+    width: 20rem;
+    height: 31.18rem;
     border-radius: 20px;
     padding: 16px 16px 40px;
     background-color: var(--white);
@@ -53,8 +53,8 @@
 
 
 .component-container .component-box img {
-    width: 288px;
-    height: 288px;
+    width: 18rem;
+    height: 18rem;
 }
 
 .component-box .box-info {
@@ -62,11 +62,11 @@
 }
 
 .component-box .box-info h1 {
-    font-family: "Outfit", "Segoe UI";
-    font-size: 22px;
+    font-family: Outfit, sans-serif;
+    font-size: 1.37rem;
     font-weight: 700;
     color: var(--slate-900);
-    width: 240px;
+    width: 15rem;
     text-align: justify;
     word-spacing: 0px;
     margin: 20px 0 16px;
@@ -74,10 +74,10 @@
 }
 
 .component-box .box-info p {
-    font-family: "Outfit", "Segoe UI";
-    font-size: 15px;
+    font-family: Outfit, sans-serif;
+    font-size: 0.93rem;
     font-weight: 400;
-    width: 256px;
+    width: 16rem;
     text-align: center;
     color: var(--slate-500);
 
