@@ -20,11 +20,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot of the finished QR code component ](./screenshot.jpg)
+![Screenshot of the finished QR code component for Desktop ](./assets/design/screenshot-desktop.png)
+![Screenshot of the finished QR code component for Mobile ](./assets/design/screenshot-mobile.png)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [GitHub Repo](https://github.com/Chantal-Yvonne/qr-code-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
@@ -35,13 +37,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### What I learned
-
+-How to follow  design system(colors, fonts,spacing) using  style guide.
+-How to center element vertically nd horizontally uing flexbox.
+-How to deploy  project uing Github Pages.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Chantal-Yvonne](https://www.frontendmentor.io/profile/Chantal-Yvonne)
 
 ## Acknowledgments
 
+This project was built based on a design brief provided by [Frontend Mentor](https://www.frontendmentor.io/).
+Thanks to the Frontend Mentor community for creating helpful challenges that support practical learning and real-world development skills
 

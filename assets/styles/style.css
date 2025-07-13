@@ -1,0 +1,84 @@
+/* Fonts downloaded from Google Fonts */
+@font-face {
+    font-family: Outfit;
+    src: url("/assets/fonts/Outfit-Medium.ttf");
+}
+
+@font-face {
+    font-family: Outfit;
+    src: url("/assets/fonts/Outfit-Regular.ttf");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+:root {
+    --white: #ffffff;
+
+    --slate-300: #d5E1Ef;
+    --slate-500: #3685ff;
+    --slate-900: #1f314f;
+
+    /* ========== FONT-WEIGHTS========= */
+    --font-400: 400;
+    --font-700: 700;
+
+}
+
+
+/* ==========CONTAINER========== */
+.component-container {
+    max-width: 1440px;
+    width: 100%;
+    height: 100vh;
+    background-color: var(--slate-300);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ==========CONTAINER BOX========== */
+
+.component-box {
+    width: 320px;
+    height: 499px;
+    border-radius: 20px;
+    padding: 16px 16px 40px;
+    background-color: var(--white);
+}
+
+
+.component-container .component-box img {
+    width: 288px;
+    height: 288px;
+}
+
+.component-box .box-info {
+    padding: 0 16px;
+}
+
+.component-box .box-info h1 {
+    font-family: Outfit;
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--slate-900);
+    width: 240px;
+    text-align: justify;
+    word-spacing: 0px;
+    margin: 24px 0 16px;
+
+}
+
+.component-box .box-info p {
+    font-family: Outfit;
+    font-size: 15px;
+    font-weight: 400;
+    width: 256px;
+    text-align: center;
+    color: var(--slate-500);
+
+}
